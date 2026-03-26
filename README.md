@@ -12,7 +12,11 @@ Logos of the Swiss Mechatronic Art Society [SGMK/SSAM/SMAS]
 
 Transparent
 
-<img src="plotted/SGMK_Stempel_BWTrans.png" alt="LOGO" width="240" height="240">
+<img src="plotted/sgmk_logo_text_350dpi.png" alt="LOGO" width="480" height="480">
+
+<img src="plotted/SGMK_Stempel_BWTrans.png" alt="Stamp" width="240" height="240">
+
+# jpg "plotted"
 
 White background
 
